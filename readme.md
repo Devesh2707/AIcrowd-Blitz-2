@@ -1,6 +1,6 @@
 # AIcrowd Blitz #2
 ***
-<img src = "https://github.com/Devesh2707/AIcrowd-Blitz-2/tree/master/imgs/Screenshot_20200729_003221.jpg" alt = "AIcrowd Blitz #2"/>
+![AIcrowd Blitz #2](https://github.com/Devesh2707/AIcrowd-Blitz-2/tree/master/imgs/Screenshot_20200729_003221.jpg)
 
 ### Result:
 #### No. of Registered: 359
